@@ -1,4 +1,4 @@
-<h1> Hi, I'm Rick Groot! <img src="https://media.giphy.com/media/RK4DU8PoCb36TasMZa/giphy.gif" width="100"></h1>
+<h1> Hi, I'm Rick Groot! <img src="https://media.giphy.com/media/12tm8YmekCwcyQ/giphy.gif" width="100"></h1>
 <img align='right' src="https://github.com/RickGroot/Portfolio/blob/main/img/profile2.jpg?raw=true" width="230" style="border-radius:50%">
 
 *Student [Comminucation and Multimedia Design](https://www.cmd-amsterdam.nl/) ([HvA](https://www.hva.nl/))*  
