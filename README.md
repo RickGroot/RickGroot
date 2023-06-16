@@ -1,8 +1,8 @@
 <h1> Hi, I'm Rick Groot! <img src="https://media.giphy.com/media/12tm8YmekCwcyQ/giphy.gif" width="100"></h1>
 <img align='right' src="https://github.com/RickGroot/Portfolio/blob/main/img/profile2.jpg?raw=true" width="230" style="border-radius:50%">
 
-*Student [Comminucation and Multimedia Design](https://www.cmd-amsterdam.nl/) ([HvA](https://www.hva.nl/))*  
-*Front-End developer, with a bit of UX and interaction design*
+*Front-end / SmartTV developer at [Triple](https://www.wearetriple.com)  
+*A developer with knowledge about design and interaction.*
 
 ***
 
